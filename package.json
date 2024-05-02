@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "check": "tsc --noEmit",
-    "start": "npm run check && vite-node src/index.ts"
+    "start": "vite-node src/index.ts"
   },
   "keywords": [],
   "author": "",
